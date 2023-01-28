@@ -1,17 +1,15 @@
-NibbleTetris
+# NibbleTetris
 
-Screenshot
-This is a clone of the popular Tetris game for the CircuitMess Nibble console.
+![Screenshot](showcase.png?raw=true "1")\
 
-Controls
+## Controls
+* Left/Right - Move tetromino
+* Up/Down - Speed up
+* A - Rotate left
+* B - Rotate right
+* Menu - Pause/Start
 
-Left/Right - Move tetromino
-Up/Down - Speed up
-A - Rotate left
-B - Rotate right
-Menu - Pause/Start
-
-Installing the game
+## Installing the game
 
 Download Arduino IDE for your operating system:
 
