@@ -1,6 +1,6 @@
 # NibbleTetris
 
-![Screenshot](showcase.png?raw=true "1")\
+![Screenshot](showcase.png?raw=true "1")
 
 ## Controls
 * Left/Right - Move tetromino
